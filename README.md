@@ -25,7 +25,7 @@ mkdir BirdWatcher
 cd BirdWatcher
 git clone https://github.com/charles-alchemcy/AIBirdWatching.git
 cd AIBirdWatching
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 and finally run the script:
