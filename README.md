@@ -11,6 +11,7 @@ Read the tutorial from here: [Link](https://medium.com/@itsoja/smart-bird-watche
 
 To start, create a virtualbox/vmware Ubuntu machine, update the OS and install required packages as follows:
 ```
+
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install -y git python3.6 python3-pip vim tree portaudio19-dev python-pyaudio python3-pyaudio

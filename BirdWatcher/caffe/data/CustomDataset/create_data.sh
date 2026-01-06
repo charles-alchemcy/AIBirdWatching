@@ -1,11 +1,9 @@
 #!/bin/bash
 
-
 cur_dir=$(cd $( dirname ${BASH_SOURCE[0]} ) && pwd )
 root_dir=~/Documents/BirdWatcher/caffe
 
 cd $root_dir
-
 redo=1
 dataset_name="bird_dataset" #Edit this to your dataset name. Don't change anything else
 data_root_dir=~/Documents/BirdWatcher/MyDataset/bird_dataset
