@@ -7,6 +7,7 @@ Read the tutorial from here: [Link](https://medium.com/@itsoja/smart-bird-watche
  <img src="https://miro.medium.com/max/600/1*mJzFUfkb1vo4x8e_Xz7UOQ.png" align="center" alt="AI bird watcher Intel ">
 </p>
 
+
 ## If you're in rush to give it a try, then the short version is as follows:
 
 To start, create a virtualbox/vmware Ubuntu machine, update the OS and install required packages as follows:
