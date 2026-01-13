@@ -7,6 +7,7 @@
 #include "caffe/util/math_functions.hpp"
 #include "caffe/util/rng.hpp"
 
+
 namespace caffe {
 template<>
 void caffe_cpu_gemm<float>(const CBLAS_TRANSPOSE TransA,
