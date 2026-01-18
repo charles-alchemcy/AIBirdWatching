@@ -15,6 +15,7 @@ max_dim=0
 width=300
 height=300
 
+
 extra_cmd="--encode-type=jpg --encoded"
 if [ $redo ]
 then
